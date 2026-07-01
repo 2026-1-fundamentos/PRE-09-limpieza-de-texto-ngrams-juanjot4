@@ -85,7 +85,7 @@ def main(input_file, output_file, n=2):
     save_data(df, output_file)
 
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main(
         input_file="files/input.txt",
         output_file="files/output.txt",
