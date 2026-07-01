@@ -89,4 +89,4 @@ if __name__ == "_main_":
     main(
         input_file="files/input.txt",
         output_file="files/output.txt",
-    ).
+    )
